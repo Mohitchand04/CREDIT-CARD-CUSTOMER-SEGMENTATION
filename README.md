@@ -35,6 +35,9 @@ This project aims to develop a customer segmentation to define marketing strateg
 Based on the **silhouette score**, I have chosen the number of clusters to be 4.
 
 ### Suggested Marketing Strategy for Each Cluster:
+![Picture5_clusters_plot](https://github.com/user-attachments/assets/ea7cec3e-e331-4db5-8044-77ba74de7d2d)
+
+
 
 #### **Group 0**
 - Potential target customers who pay their bills, make purchases, and maintain a good credit score.
